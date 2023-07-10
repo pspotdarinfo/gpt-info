@@ -1,9 +1,5 @@
-gpt4all
-langchain
-chromadb
-pypdf
-sentence_transformers
+
 streamlit
 streamlit-authenticator
 streamlit-option-menu
-psycopg2
+
